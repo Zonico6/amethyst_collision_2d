@@ -1,0 +1,8 @@
+[package]
+name = "amethyst_collisions_2d"
+version = "0.1.0"
+authors = ["Zonico6 <Zonico67@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+amethyst = "0.10.0"
